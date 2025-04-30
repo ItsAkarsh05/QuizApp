@@ -1,0 +1,1 @@
+C:\flutter_projects\QuizApp\quize_app\build\app\intermediates\cxx\Debug\5e4b6w2h\obj\x86_64
